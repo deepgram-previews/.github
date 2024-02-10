@@ -10,6 +10,7 @@ Here are some of our favorite resources for getting started:
 - [Starter Apps](https://github.com/deepgram-starters)
 - [Python SDK](https://github.com/deepgram/deepgram-python-sdk)
 - [Node SDK](https://github.com/deepgram/deepgram-node-sdk)
+- [Go SDK](https://github.com/deepgram/deepgram-go-sdk)
 - [.NET SDK](https://github.com/deepgram/deepgram-dotnet-sdk)
 - [Documentation](https://developers.deepgram.com/documentation/)
 - [Blog posts](https://deepgram.com/learn)
